@@ -1,3 +1,4 @@
+[app]
 
 title = MidatA
 package.name = MidatA
